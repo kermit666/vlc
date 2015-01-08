@@ -21079,7 +21079,7 @@ msgstr "Wybierz skórę"
 
 #: modules/gui/skins2/src/theme_repository.cpp:116
 msgid "Open skin ..."
-msgstr "Otwóz skórę ..."
+msgstr "Otwórz skórę ..."
 
 #: modules/lua/vlc.c:57
 msgid "Lua interface"
